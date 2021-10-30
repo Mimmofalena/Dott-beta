@@ -10,7 +10,6 @@ import { Switch, Route } from 'react-router'
 import ServiziOfferti from '../ServiziOfferti/ServiziOfferti'
 import ScrollToTop from './ScrollToTop'
 import Maps from '../Map/Maps'
-import Slider from '../Slider/Slider'
 import Carousel from '../Carousel/Carousel'
 
 

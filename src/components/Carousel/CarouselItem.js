@@ -3,7 +3,7 @@ import classes from '../Carousel/Carousel.module.css'
 
 const CarouselItem = (props) => {
 
-console.log(props);
+
     
 
     return (
